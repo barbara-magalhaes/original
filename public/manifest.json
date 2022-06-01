@@ -1,0 +1,44 @@
+{
+  "lang": "pt-BR",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ff7900",
+  "short_name": "Pelando",
+  "name": "Pelando: Promoções e cupons",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.tippingcanoe.pelando"
+    },
+    {
+      "platform": "itunes",
+      "url": "itmss://apps.apple.com/br/app/id1045614200",
+      "id": "id1045614200"
+    }
+  ],
+  "background_color": "#ffffff",
+  "serviceworker": {
+    "src": "./sw.js",
+    "scope": "/",
+    "type": "",
+    "update_via_cache": "none"
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tippingcanoe.pelando",
+      "sha256_cert_fingerprints": [
+        "D0:40:A8:1E:8C:93:FB:9E:5D:C9:5B:FD:4C:A1:9B:30:7E:21:88:F1:20:AF:16:98:08:71:85:63:10:C3:96:2D"
+      ]
+    }
+  }
+]
