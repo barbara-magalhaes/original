@@ -6,9 +6,8 @@
 
 ## Prerequisite
 
-Start at [link confluence](casa)
- #tutorial for ubuntu version 20.04
- 
+Start at [link confluence](adicionar)
+
 Install `build-essential` [tutorial](https://linuxhint.com/install-build-essential-ubuntu/)
 
 Install `cmake` [tutorial](https://linuxhint.com/install-cmake-on-ubuntu)
