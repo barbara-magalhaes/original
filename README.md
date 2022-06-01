@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="Pelando" height="64" src="./public/favicons/favicon.svg">
+</p>
 <h1 align="center">Pelando API</h1>
 
 <div align="center">
