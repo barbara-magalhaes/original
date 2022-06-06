@@ -9,21 +9,7 @@
 
 ## Prerequisite
 
-Start at [link confluence](adicionar)
-
-Install `build-essential` [tutorial](https://linuxhint.com/install-build-essential-ubuntu/)
-
-Install `cmake` [tutorial](https://linuxhint.com/install-cmake-on-ubuntu)
-
-Install `yarn` [tutorial](https://linuxize.com/post/how-to-install-yarn-on-ubuntu-20-04/)
-
-Install `nodejs` [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04-pt)
-
-Install `docker` [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt)
-
-Install `docker-compose` [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-pt)
-
-
+Start at [Confluence](https://pelandobr.atlassian.net/l/c/wXKFtYce)
 
 ## Usage
 
